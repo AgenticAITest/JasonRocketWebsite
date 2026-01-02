@@ -60,8 +60,8 @@ const CARS_DATA = [
     price: 85000,
     type: 'Classic 4x4',
     images: [
-      'https://images.unsplash.com/photo-1552837892-06764536294d?q=80&w=2070&auto=format&fit=crop', 
-      'https://images.unsplash.com/photo-1629810793608-7243c448c414?q=80&w=2070&auto=format&fit=crop'
+      '/uploads/images/car_1_1_stock.webp', 
+      '/uploads/images/car_1_2_stock.webp'
     ],
     description: 'A stunning, frame-off restored 1974 Ford Bronco in Brittany Blue. This uncut gem features a rebuilt 302 V8 and a modern suspension lift, blending classic ruggedness with drivable comfort. A true collector\'s piece.',
     specs: {
@@ -83,8 +83,8 @@ const CARS_DATA = [
     price: 115000,
     type: 'Classic 4x4',
     images: [
-      'https://images.unsplash.com/photo-1519245659634-546d16155261?q=80&w=2070&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1506015391300-4802dc74de2e?q=80&w=2159&auto=format&fit=crop'
+      '/uploads/images/car_2_1_stock.webp',
+      '/uploads/images/car_2_2_1766803993703.webp'
     ],
     description: 'One of the most sought-after 4x4s in existence. This North American Specification (NAS) D90 is finished in Alpine White with a roll cage and safari top. Rugged, capable, and undeniably cool.',
     specs: {
@@ -106,8 +106,8 @@ const CARS_DATA = [
     price: 68500,
     type: 'Vintage Sport',
     images: [
-      'https://images.unsplash.com/photo-1503376763036-066120622c74?q=80&w=2070&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=1964&auto=format&fit=crop'
+      '/uploads/images/car_3_1_stock.webp',
+      '/uploads/images/car_3_2_1766803995249.webp'
     ],
     description: 'Air-cooled perfection. This 911 SC Targa in Guards Red offers the quintessential analog driving experience. Meticulously maintained with numbers-matching engine and transmission.',
     specs: {
@@ -129,7 +129,7 @@ const CARS_DATA = [
     price: 72000,
     type: 'Classic 4x4',
     images: [
-      'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=2070&auto=format&fit=crop'
+      '/uploads/images/car_4_1_1766803995958.webp'
     ],
     description: 'The ultimate beach cruiser. This \'72 K5 Blazer features a full convertible top and a stunning Ochre and White two-tone paint job. Powered by a crate 350 V8 for reliability and power.',
     specs: {
@@ -151,8 +151,8 @@ const CARS_DATA = [
     price: 95000,
     type: 'Muscle',
     images: [
-      'https://images.unsplash.com/photo-1542384557-0824d90731ee?q=80&w=1974&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1566421943825-7096e578c93a?q=80&w=2070&auto=format&fit=crop'
+      '/uploads/images/car_5_1_1766803996403.webp',
+      '/uploads/images/car_5_2_stock.webp'
     ],
     description: 'Bullitt vibes. This \'67 Fastback in Highland Green is a pro-touring build, featuring modern disc brakes, rack-and-pinion steering, and a roaring 390 big block engine.',
     specs: {
@@ -174,7 +174,7 @@ const CARS_DATA = [
     price: 48000,
     type: 'Wagon',
     images: [
-      'https://images.unsplash.com/photo-1532751203793-812308a10d8e?q=80&w=1954&auto=format&fit=crop'
+      '/uploads/images/car_6_1_1766803997746.webp'
     ],
     description: 'The original luxury SUV. Finished in Hunter Green with iconic wood paneling. This Grand Wagoneer has been preserved in time, offering plush cordovan leather seats and that classic V8 rumble.',
     specs: {
